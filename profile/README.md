@@ -19,7 +19,7 @@ Linux Evi Derneği, Linux Sistem Yöneticilerini tek bir çatı altında bir ara
 
 * Bento: [https://bento.me/linuxevi](https://bento.me/linuxevi)
 * Twitter: [https://twitter.com/linuxevi](https://twitter.com/linuxevi)
-* LinkedIn: [https://www.linkedin.com/groups/14210502/](https://www.linkedin.com/groups/14210502/)
+* LinkedIn: [https://www.linkedin.com/company/linux-evi/](https://www.linkedin.com/company/linux-evi/)
 * Medium: [https://medium.com/linuxevi](https://medium.com/linuxevi)
 * YouTube: [https://www.youtube.com/@LinuxEvi](https://www.youtube.com/@LinuxEvi)
 
