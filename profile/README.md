@@ -17,7 +17,7 @@ Linux Evi Derneği, Linux Sistem Yöneticilerini tek bir çatı altında bir ara
 
 **Sosyal Medya**
 
-* Bento: [https://bento.me/linuxevi](https://bento.me/linuxevi)
+* Tüm Linklerimiz: [https://bio.link/linuxevi](https://bio.link/linuxevi)
 * Twitter: [https://twitter.com/linuxevi](https://twitter.com/linuxevi)
 * LinkedIn: [https://www.linkedin.com/company/linux-evi/](https://www.linkedin.com/company/linux-evi/)
 * Medium: [https://medium.com/linuxevi](https://medium.com/linuxevi)
